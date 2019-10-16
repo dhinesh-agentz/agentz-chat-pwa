@@ -1,0 +1,16 @@
+{
+  "short_name": "Agentz Messenger",
+  "name": "Agentz Messenger",
+  "icons": [
+    {
+      "src":"icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#FFFF",
+  "theme_color": "#FFFF",
+  "display": "standalone",
+  "orientation": "portrait"
+}
